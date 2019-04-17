@@ -1,0 +1,1 @@
+<template name="5b42276e"><view class="_view 5b42276e content"><image class="_image 5b42276e logo" src="/static/logo.png"></image><view class="_view 5b42276e"><text class="_text 5b42276e title">{{title}}</text></view></view></template>

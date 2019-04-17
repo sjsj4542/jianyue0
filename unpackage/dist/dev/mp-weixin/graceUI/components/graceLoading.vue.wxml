@@ -1,0 +1,1 @@
+<template name="faed20ca"><view class="_view faed20ca grace-loading grace-ellipsis" wx:if="{{show}}"><view class="_view faed20ca grace-loading-icon" wx:if="{{loadingType === 1}}"></view><text class="_text faed20ca">{{loadingText[loadingType]}}</text></view></template>
